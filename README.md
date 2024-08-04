@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning AI and ML.
 - 💞️ I’m looking to collaborate with like minds.
 - 📫 @Email- gangadharmarndi757104@gmail.com
-- 😄 Pronouns: The Future
 - ⚡ Fun fact: You are already Hacked.
 
 <!---
