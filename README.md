@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning AI and ML.
 - 💞️ I’m looking to collaborate with like minds.
 - 📫 @Email- gangadharmarndi757104@gmail.com
-- ⚡ Fun fact: You are already Hacked.
+- ⚡ Fun fact: You have been Hacked already 
 
 <!---
 ES-UNIVERSE/ES-UNIVERSE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
