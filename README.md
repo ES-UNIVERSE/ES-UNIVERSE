@@ -24,8 +24,9 @@
 - **Neural Networks**: 5 🧠
 - **Other Technologies**: 8 🔧
 
-#### **Project Distribution** (Sample Pie Chart):
-![Project Distribution](https://quickchart.io/chart?c={type:'pie',data:{labels:['Python','Java','C++','Neural Networks','Others'],datasets:[{data:[12,32,10,5,8]}]},options:{plugins:{legend:{position:'right'}}}})
+#### **Project Distribution**:
+
+![Project Distribution](https://quickchart.io/chart/render/sf-4b242423-ffb6-49b1-bb30-e402be07cc8c)
 
 ---
 
