@@ -19,9 +19,9 @@
 
 #### **Project Breakdown**:
 - **Python Projects**: 12 🐍
-- **Java Projects**: 32 ☕
-- **C++ Projects**: 10 🖥️
-- **Neural Networks**: 5 🧠
+- **Java Projects**: 4 ☕
+- **C++ Projects**: 2 🖥️
+- **Neural Networks**: 1 🧠
 - **Other Technologies**: 8 🔧
 
 
