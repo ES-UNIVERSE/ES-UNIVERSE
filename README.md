@@ -25,7 +25,7 @@
 - **Other Technologies**: 8 🔧
 
 
-Project Distribution (Sample Pie Chart):
+Project Distribution:
 ![Project Distribution](https://quickchart.io/chart?c=%7Btype%3A%27pie%27%2Cdata%3A%7Blabels%3A%5B%27Python%27%2C%27Java%27%2C%27C%2B%2B%27%2C%27Neural%20Networks%27%2C%27Others%27%5D%2Cdatasets%3A%5B%7Bdata%3A%5B12%2C4%2C2%2C1%2C8%5D%7D%5D%7D%2Coptions%3A%7Bplugins%3A%7Blegend%3A%7Bposition%3A%27right%27%7D%7D%7D%7D&width=200&height=200)
 
 
