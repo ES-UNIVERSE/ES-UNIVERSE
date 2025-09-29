@@ -4,8 +4,7 @@
 - 🧠 **Curious Tech Enthusiast** | I’m passionate about everything technology.
 - 🌱 **Learning AI/ML** | Currently diving deep into Artificial Intelligence and Machine Learning.
 - 💡 **Collaboration** | Eager to collaborate with like-minded people and tech enthusiasts.
-- 📫 **Contact Me** | Feel free to reach out via email: **gangadharmarndi757104@gmail.com**
-
+- 📫 **Contact Me** | Feel free to reach out:
 ---
 
 ### 💻 Technologies I'm Working On:
@@ -36,7 +35,6 @@ Project Distribution:
 
 ### 🌐 Connect With Me:
 - **Telegram**: [@jrram3000](https://t.me/jrram3000)
-- **Instagram**: [@urstruly_ganga](https://www.instagram.com/urstruly_ganga/)
 - **GitHub**: [@ES-UNIVERSE](https://github.com/ES-UNIVERSE)
 
 ---
